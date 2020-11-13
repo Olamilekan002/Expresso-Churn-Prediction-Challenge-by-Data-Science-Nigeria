@@ -10,6 +10,7 @@ My Approach
 - Feature Generation
 - KFold Validation
 - Model Blending
+
 Improvements that can be made
 - Feature Selection
 - Handling missing data more efficiently
